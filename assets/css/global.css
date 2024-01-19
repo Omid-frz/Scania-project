@@ -1,0 +1,49 @@
+@font-face {
+    font-family: scaniabold;
+    src: url(../fonts/ScaniaSansCY-Bold.eot) format('eot'),
+    url(../fonts/ScaniaSansCY-Bold.ttf) format('ttf'),
+    url(../fonts/ScaniaSansCY-Bold.woff) format('woff'),
+    url(../fonts/ScaniaSansCY-Bold.woff2) format('woff2');
+}
+@font-face {
+    font-family: scaniareg;
+    src: url(../fonts/ScaniaSansCY-Regular.eot) format('eot'),
+    url(../fonts/ScaniaSansCY-Regular.ttf) format('ttf'),
+    url(../fonts/ScaniaSansCY-Regular.woff) format('woff'),
+    url(../fonts/ScaniaSansCY-Regular.woff2) format('woff2');
+}
+@font-face {
+    font-family: scaniaheadbold;
+    src: url(../fonts/ScaniaSansCYHeadline-Bold.eot) format('eot'),
+    url(../fonts/ScaniaSansCYHeadline-Bold.ttf) format('ttf'),
+    url(../fonts/ScaniaSansCYHeadline-Bold.woff) format('woff'),
+    url(../fonts/ScaniaSansCYHeadline-Bold.woff2) format('woff2');
+}
+@font-face {
+    font-family: scaniasansreg;
+    src: url(../fonts/ScaniaSansCY-Regular.eot) format('eot'),
+    url(../fonts/ScaniaSansCY-Regular.ttf) format('ttf'),
+    url(../fonts/ScaniaSansCY-Regular.woff) format('woff'),
+    url(../fonts/ScaniaSansCY-Regular.woff2) format('woff2');
+}
+*, *::after, *::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+        font-size: 100%;
+        width: 100%;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+li{
+    list-style-type: none;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
