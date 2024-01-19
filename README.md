@@ -12,4 +12,4 @@
 
 - Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/omid_firouzi_web) and [linkedin](https://www.linkedin.com/in/omid-firouzi)
+- How to reach me : with my [instagram](https://www.instagram.com/omid_firouzi_web) and [linkedin](https://www.linkedin.com/in/omid-firouzi-9793a62a9/)
