@@ -1,6 +1,6 @@
 # Scania Project
 
-- [Demo Project]([https://Omid-frz](https://github.com/Omid-frz/Scania-project))
+- [Demo Project](https://omid-frz.github.io/Scania-project/)
 
 - Developed by Omid Firouzi
 
